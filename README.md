@@ -1,4 +1,4 @@
-## Hi there 👋
+## hi! i'm samantha!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamanthaaYee&theme=tokyonight)
 
 <!--
