@@ -1,8 +1,7 @@
 ## Hi, I'm Samantha! :)
 *Systems Design Engineering student @ UWaterloo | Front-End & Full-Stack Developer*
 
-🔭 I’m currently working on a [Spotify Web Player](https://github.com/SamanthaaYee/spotify-player) project! <br>
-🌱 I’m currently building my skills in **React, Express & TypeScript**  
+🌱 Currently working on a [Spotify Web Player](https://github.com/SamanthaaYee/spotify-player) project! <br>
 💼 Seeking Summer '26 internship roles in: **front-end, full-stack, and product design** roles! <br>
 📩 Reach me @ [sayee@uwaterloo.ca](mailto:sayee@uwaterloo.ca) | [in/samanthayee6](https://www.linkedin.com/in/samanthayee6)
 
