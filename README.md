@@ -1,11 +1,12 @@
 ## Hi, I'm Samantha! :)
 *Systems Design Engineering student @ UWaterloo | Front-End & Full-Stack Developer*
 
-🌱 Currently working on a [Spotify Web Player](https://github.com/SamanthaaYee/spotify-player) project! <br>
+🌱 Currently working on a [Spotify Web Player](https://github.com/SamanthaaYee/spotify-player) project, check it out! <br>
 💼 Seeking Summer '26 internship roles in: **front-end, full-stack, and product design** roles! <br>
 📩 Reach me @ [sayee@uwaterloo.ca](mailto:sayee@uwaterloo.ca) | [in/samanthayee6](https://www.linkedin.com/in/samanthayee6)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamanthaaYee&layout=compact&theme=tokyonight)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamanthaaYee&layout=compact&theme=tokyonight)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=tokyonight)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamanthaaYee&theme=tokyonight)
 
